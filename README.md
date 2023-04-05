@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEkJwhgipuaAw/profile-displaybackgroundimage-shrink_350_1400/0/1673516757041?e=1684368000&v=beta&t=E0W1EGaRMOd_QHnwZ7dSwmt2vN8Rluea_XiRwLUChlo)](https://effulgent-platypus-ef5a71.netlify.app/)
-
 <h2 align="center">Hi 👋, I'm Aman Kumar</h2>
 <h3 align="center">A geeky  Full-Stack web2 and web3 Developer, from India, who just enjoys doing Coding.</h3>
 
